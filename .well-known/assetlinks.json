@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nikhil.angelstouch",
+      "sha256_cert_fingerprints": [
+        "D5:87:84:93:74:50:6E:39:4A:8E:2D:BB:A4:BA:43:B7:DB:DE:85:93:75:BB:ED:A7:2F:9E:31:33:98:11:39:84"
+      ]
+    }
+  }
+]
